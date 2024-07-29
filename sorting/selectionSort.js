@@ -20,3 +20,5 @@ function selectionSort(arr) {
 const array = [-5, -7, 81, 8, -3, 9, 61];
 const ans = selectionSort(array);
 console.log(ans);
+
+// Time -> O(n)^2    Space -> O(1)
